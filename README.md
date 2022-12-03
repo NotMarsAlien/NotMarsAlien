@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning OpenGL and Cross Platform Development<br><br>👯 I’m looking to collaborate With Like Minded People<br><br>🤝 I’m looking for help with Game Engine Development<br><br>👨‍💻 All of my projects are available at https://github.com/NotMarsAlien<br><br>📝 I regularly write articles on notmarsalien.com/blog<br><br>📫 How to reach me notmarsalien@gmail.com<br><br>📄 Know about my experiences notmarsalien.com/resume<br><br>⚡ Fun fact I am not from Mars
+🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning OpenGL and Cross Platform Development<br><br>👯 I’m looking to collaborate With Like Minded People<br><br>🤝 I’m looking for help with Game Engine Development<br><br>👨‍💻 All of my projects are available at https://github.com/NotMarsAlien<br><br>📝 I regularly write articles on https://notmarsalien.com/blog<br><br>📫 How to reach me notmarsalien@gmail.com<br><br>📄 Know about my experiences notmarsalien.com/resume<br><br>⚡ Fun fact I am not from Mars
 
 
 ## 🌐 Socials:
