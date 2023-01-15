@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us
 🤝 We are looking for collabration with Hyper-Casual Game Development<br><br>👨‍💻 All of the Open-Source projects are available at: https://github.com/NotMarsAlien<br><br>📝 We regularly write articles on: https://notmarsalien.com/blog<br><br>📄 Know about our experiences: https://notmarsalien.com/resume<br><br>📫 How to reach us: notmarsalien@gmail.com<br><br>⚡ Fun fact we are not from Mars
 
 
